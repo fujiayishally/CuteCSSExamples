@@ -9,11 +9,11 @@ Daily-Cute-CSS
 
 ## :seedling:今天的样式
 1. [透明的边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/1-translucent-borders)
-   [BackgroundClip-PaddingBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/BackgroundClip-PaddingBox.JPG)
+   ![BackgroundClip-PaddingBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/BackgroundClip-PaddingBox.jpg)
 
 ## :herb:本周汇总
 1. [透明的边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/1-translucent-borders)
-   [BackgroundClip-PaddingBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/BackgroundClip-PaddingBox.JPG)
+   ![BackgroundClip-PaddingBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/BackgroundClip-PaddingBox.jpg)
    
 ## :deciduous_tree:所有效果汇总
 1. [透明的边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/1-translucent-borders)
