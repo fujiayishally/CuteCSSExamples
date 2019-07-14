@@ -24,7 +24,7 @@
 
 边框去哪了？再看看去掉白色背景后的渲染结果：
 
-![NoBackgroundColor](./images/NoBackgroundColor.JPG)
+![NoBackgroundColor](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/NoBackgroundColor.JPG)
 
 原来是背景色垫在边框下面，半透明的边框看不出来了。也就是说，**元素的背景色有效范围是边框外边沿**。
 
@@ -36,7 +36,7 @@ background-image: linear-gradient(white 100%,transparent);
 ```
 渲染结果和白色背景色时一样：
 
-![BackgroundClip-BorderBox](./images/BackgroundClip-BorderBox.JPG)
+![BackgroundClip-BorderBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/BackgroundClip-BorderBox.JPG)
 
 🎉解决方案
 ---
@@ -56,7 +56,7 @@ background-image: linear-gradient(white 100%,transparent);
 
 |`border-box`|`padding-box`|`content-box`|
 |:-:|:-:|:-:|
-|![](./images/BackgroundClip-BorderBox.JPG)|![透明边框2](./images/BackgroundClip-PaddingBox.JPG)|![透明边框4](./images/BackgroundClip-ContentBox.JPG)|
+|![BackgroundClip-BorderBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/BackgroundClip-BorderBox.JPG)|![BackgroundClip-PaddingBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/BackgroundClip-PaddingBox.JPG)|![BackgroundClip-ContentBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/BackgroundClip-ContentBox.JPG)|
 
 ⚠注意
 ---
@@ -78,7 +78,7 @@ border:1em solid hsla(0,0%,100%,0.5);
 
 |`border-box`|`padding-box`（与默认时相同）|`content-box`|
 |:-:|:-:|:-:|
-|![](./images/BackgroundOrigin-BorderBox.JPG)|![透明边框2](./images/BackgroundOrigin-PaddingBox.JPG)|![透明边框4](./images/BackgroundOrigin-ContentBox.JPG)|
+|![BackgroundOrigin-BorderBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/BackgroundOrigin-BorderBox.JPG)|![BackgroundOrigin-PaddingBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/BackgroundOrigin-PaddingBox.JPG)|![BackgroundOrigin-ContentBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/BackgroundOrigin-ContentBox.JPG)|
 
 可以看出，`background-origin` 控制的是背景图的开始渲染位置（0,0）是相对于border、padding、还是content，而不是渲染范围。
 
