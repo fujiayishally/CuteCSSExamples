@@ -8,8 +8,8 @@ Daily-Cute-CSS
    
 
 ## 本周汇总
-1. [透明的边框](/master/1.透明的边框)
+1. [透明的边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/1.透明的边框)
 
    
 ## 所有效果汇总
-1. [透明的边框](../tree/master/1.半透明的边框)
+1. [透明的边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/1.透明的边框)
