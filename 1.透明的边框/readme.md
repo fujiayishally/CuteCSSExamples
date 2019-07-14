@@ -19,7 +19,7 @@
 
 但渲染出来的结果却不如意😟：
 
-![BackgroundClip-BorderBox](/images/BackgroundClip-BorderBox.JPG)
+![BackgroundClip-BorderBox](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/1.透明的边框/images/BackgroundClip-BorderBox.JPG)
 
 边框去哪了？再看看去掉白色背景后的渲染结果😲：
 
