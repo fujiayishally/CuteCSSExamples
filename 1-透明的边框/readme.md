@@ -5,7 +5,7 @@
 ---
 假设想给一个容器设置一个白色背景和一道半透明白色边框，body背景从半透明边框透出来，该如何实现呢？
 
-思路
+:sailboat:思路
 ---
 
 大部分人首先想到的代码可能是这样的：
@@ -17,10 +17,12 @@
 }
 ```
 
-但渲染出来的结果却不如意😟：
-![BackgroundClip-BorderBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1.透明的边框/images/BackgroundClip-BorderBox.JPG)
+但渲染出来的结果却不如意:scream_cat:：
 
-边框去哪了？再看看去掉白色背景后的渲染结果😲：
+![BackgroundClip-BorderBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-透明的边框/images/BackgroundClip-BorderBox.JPG)
+
+
+边框去哪了？再看看去掉白色背景后的渲染结果：
 
 ![NoBackgroundColor](./images/NoBackgroundColor.JPG)
 
