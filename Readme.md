@@ -8,12 +8,21 @@ Daily-Cute-CSS
 废话不多说，上车吧:car::bus::bullettrain_side::rocket:
 
 ## :seedling:今天的样式
-1. [透明的边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/1-translucent-borders)
-   ![BackgroundClip-PaddingBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/BackgroundClip-PaddingBox.jpg)
+2. [多重边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/2-multiple-borders)
+
+|:-:|:-:|:-:|
+|![outline](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/outline.jpg)|![box-shadow](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow.jpg)|![box-shadow-inset](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-inset.jpg)|
 
 ## :herb:本周汇总
 1. [透明的边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/1-translucent-borders)
+   
    ![BackgroundClip-PaddingBox](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/1-translucent-borders/images/BackgroundClip-PaddingBox.jpg)
+
+2. [多重边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/2-multiple-borders)
+
+|:-:|:-:|:-:|
+|![outline](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/outline.jpg)|![box-shadow](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow.jpg)|![box-shadow-inset](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-inset.jpg)|
    
 ## :deciduous_tree:所有效果汇总
 1. [透明的边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/1-translucent-borders)
+2. [多重边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/2-multiple-borders)
