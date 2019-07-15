@@ -56,7 +56,7 @@ outline:10px solid rgba(0,255,0,0.3);
 ```
 效果图：
 
-![outline](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/outline.jpg)
+![outline](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/outline.JPG)
 
 ### `box-shadow`方案
 
@@ -70,7 +70,7 @@ box-shadow: 0 0 0 10px rgba(0,255,0,0.3),
 
 效果图：
 
-![box-shadow](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow.jpg)
+![box-shadow](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow.JPG)
 
 #### 内阴影
 
@@ -82,7 +82,7 @@ box-shadow: 0 0 0 10px rgba(0,255,0,0.3) inset,
 
 效果图：
 
-![box-shadow-inset](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-inset.jpg)
+![box-shadow-inset](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-inset.JPG)
 
 ⚠注意
 ---
@@ -95,7 +95,7 @@ box-shadow: 0 0 0 10px rgba(0,255,0,0.3) inset,
 
 |`outline`|外阴影|内阴影|
 |:-:|:-:|:-:|
-|![outline](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/outline-radius.jpg)|![box-shadow](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-radius.jpg)|![box-shadow-inset](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-inset-radius.jpg)|
+|![outline](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/outline-radius.JPG)|![box-shadow](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-radius.JPG)|![box-shadow-inset](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-inset-radius.JPG)|
 
 
 ### 布局影响
@@ -130,7 +130,7 @@ margin:50px;
 
 |`outline`|外阴影|内阴影|
 |:-:|:-:|:-:|
-|![outline2](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/outline-radius2.jpg)|![box-shadow2](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-radius2.jpg)|![box-shadow-inset2](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-inset-radius2.jpg)|
+|![outline2](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/outline-radius2.JPG)|![box-shadow2](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-radius2.JPG)|![box-shadow-inset2](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-inset-radius2.JPG)|
 
 ### `box-shadow`的渲染
 

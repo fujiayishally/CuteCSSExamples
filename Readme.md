@@ -10,8 +10,9 @@ Daily-Cute-CSS
 ## :seedling:今天的样式
 2. [多重边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/2-multiple-borders)
 
+|`outline`|外阴影|内阴影|
 |:-:|:-:|:-:|
-|![outline](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/outline.jpg)|![box-shadow](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow.jpg)|![box-shadow-inset](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-inset.jpg)|
+|![outline](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/outline.JPG)|![box-shadow](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow.JPG)|![box-shadow-inset](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-inset.JPG)|
 
 ## :herb:本周汇总
 1. [透明的边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/1-translucent-borders)
@@ -20,8 +21,9 @@ Daily-Cute-CSS
 
 2. [多重边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/2-multiple-borders)
 
+|`outline`|外阴影|内阴影|
 |:-:|:-:|:-:|
-|![outline](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/outline.jpg)|![box-shadow](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow.jpg)|![box-shadow-inset](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-inset.jpg)|
+|![outline](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/outline.JPG)|![box-shadow](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow.JPG)|![box-shadow-inset](https://github.com/fujiayishally/Daily-Cute-CSS/blob/master/2-multiple-borders/images/box-shadow-inset.JPG)|
    
 ## :deciduous_tree:所有效果汇总
 1. [透明的边框](https://github.com/fujiayishally/Daily-Cute-CSS/tree/master/1-translucent-borders)
